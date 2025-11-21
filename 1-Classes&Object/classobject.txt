@@ -1,0 +1,7 @@
+attributes :
+ fields or member variables-It represents state or properties of an object
+ types:
+ Instance attribute-belongs to each object seperately-like name,age
+ Static Attribute-shared by all objects ->static int count
+ Final Attribute-Value cannot be changed once assigned ->final int id=101;
+ 
