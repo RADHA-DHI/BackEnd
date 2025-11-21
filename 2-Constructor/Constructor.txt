@@ -1,0 +1,22 @@
+Constructor:
+--------------------------------
+A Constructor in Java is a Special Method used to initialize objects when they are created.
+1. Constructor name must be the same as the class name.
+2. Constructor does not have a retrun type (not even void)
+3. it is automatically called when an object is created
+4. if you don't define any Constructor, java provides a default one
+
+Type of Constructors
+-------------------------------- 
+1. Default Constructor - A Constructor without parameters. it initializes default 
+values to object data members
+ 
+2. Parameterized Constructor - A Constructor that accepts arguments to initialize data 
+members with custom values
+
+Constructor Overloading
+--------------------------------
+Constructor Overloading means having more than one Constructorin the same class with different
+parameters lists
+ 
+it allows you to create objects in multiple ways
