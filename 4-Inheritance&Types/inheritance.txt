@@ -1,0 +1,14 @@
+Inheritance-> process by which one class (child/subclass) acquires the properties and behaviors (fields and methods) of another class (parent/superclass).
+
+Inheritance is a mechanism in Java where one class inherits the fields and methods of another class using the extends keyword.
+
+Basic Syntax:
+class Parent {
+    // parent class members
+}
+
+class Child extends Parent {
+    // child class members
+}
+
+->Child now inherits all accessible members (variables and methods) from Parent
